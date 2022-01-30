@@ -3,20 +3,23 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! My name is Ahmad Mahfudin Alwi from Indonesia
+<a href="https://github.com/ahmadalwi425">
+  <img src="https://komarev.com/ghpvc/?username=ahmadalwi425&style=flat-square" />
+</a>
 
 <!-- ### Portfolio: https://ahmadalwi425.github.io -->
 
 <a href="https://twitter.com/ahmadalwi_46">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ahmad Mahfudin Alwi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ahmad-mahfudin-alwi-1a6b45119/">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ahmad Mahfudin Alwi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/ahmadmahfudin.alwi">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ahmad Mahfudin Alwi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/ahmad_alwi425">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ahmad Mahfudin Alwi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
@@ -45,6 +48,15 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/ahmadalwi425) 
 
 
+<a href="https://github.com/ahmadalwi425">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadalwi425&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/ahmadalwi425">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalwi425&layout=compact" />
+</a>
 
 
 
