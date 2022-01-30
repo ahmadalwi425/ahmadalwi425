@@ -1,4 +1,4 @@
-![Web-developer](https://github.com/ahmadalwi425/ahmadalwi425/img/banneralwi-01.png)
+![Web-developer](https://github.com/ahmadalwi425/ahmadalwi425/blob/main/img/banneralwi-01.png?raw=true)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
